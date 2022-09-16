@@ -1,0 +1,10 @@
+Git and GitHub
+--------------------
+* if we tried to delete a branch that wasn't merged, then we must use -D instead of -d.
+** GitHub 
+* There is one shared repository that is stored online, every user takes a copy of it as his local 
+  repo, then shen he finishes his feature, he pushes the code to merge it with the master branch of 
+  the shared repo.
+
+  it's like every user is a branch of the master branch in the shared repository.
+  
