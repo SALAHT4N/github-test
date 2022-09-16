@@ -7,4 +7,7 @@ Git and GitHub
   the shared repo.
 
   it's like every user is a branch of the master branch in the shared repository.
+
+  git remote add origin link : to make an alias.
+
   
