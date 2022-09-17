@@ -11,9 +11,8 @@ Git and GitHub
   git remote add origin link : to make an alias.
 
 
-  in testttttt.
-
-hi again
-
-
-  dasfggghfdgdfs
+* git push origin master
+  the last argument is the name of the branch that is stored locally and want to upload,
+  not the name of the one in the remote.
+  so regardless of what branch we are currently checking out, we can push any branch we 
+  desire.
